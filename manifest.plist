@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.wanbangcloudhelth.fengyouhui</string>
+				<string>com.wanbangcloudhelth.fengyouhuilive</string>
 				<key>bundle-version</key>
-				<string>1.9.0</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>风友汇</string>
+				<string>风友汇主播端</string>
 			</dict>
 		</dict>
 	</array>
