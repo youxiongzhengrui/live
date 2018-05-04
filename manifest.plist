@@ -17,8 +17,7 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/youxiongzhengrui/live/57.png
-</string>
+					<string>https://github.com/youxiongzhengrui/live/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -32,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.wanbangcloudhelth.fengyouhuilive</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>风友汇主播端</string>
+				<string>FYHLive</string>
 			</dict>
 		</dict>
 	</array>
