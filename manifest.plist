@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>git@github.com:youxiongzhengrui/live/FYHLive.ipa</string>
+					<string>https://yjkgit.wanbang.net/ios/liveipa/FYHLive.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>git@github.com:youxiongzhengrui/live/57.png</string>
+					<string>https://yjkgit.wanbang.net/ios/liveipa/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>git@github.com:youxiongzhengrui/live/512.png</string>
+					<string>https://yjkgit.wanbang.net/ios/liveipa/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
